@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\portfolio\rotating-cube\rotating-cube\source.cpp(16): warning C4305: инициализация: усечение из "double" к "GLfloat"
+d:\portfolio\rotating-cube\rotating-cube\source.cpp(18): warning C4244: инициализация: преобразование "double" в "GLfloat", возможна потеря данных
+d:\portfolio\rotating-cube\rotating-cube\source.cpp(61): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+d:\portfolio\rotating-cube\rotating-cube\source.cpp(250): warning C4838: преобразование из "int" в "BYTE" требует сужающего преобразования
+  Rotating-Cube.vcxproj -> D:\Portfolio\Rotating-Cube\Rotating-Cube\Debug\Rotating-Cube.exe
+  Rotating-Cube.vcxproj -> D:\Portfolio\Rotating-Cube\Rotating-Cube\Debug\Rotating-Cube.pdb (Full PDB)
